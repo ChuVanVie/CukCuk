@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KS6QHmK5emH3VG7PrhNO7OWM/1MB0ej9YTpfnESwZk0ypK1A7VNCzLcPkW9ruzmjqLef/SHLlekM+4kYiKI8kA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\source\\repos\\Misa.CukCuk.Materials\\Helpers\\Misa.CukCuk.Helpers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512"
+  ],
+  "logs": []
+}

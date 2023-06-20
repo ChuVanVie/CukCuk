@@ -1,0 +1,15 @@
+C:\Users\Acer\source\repos\Misa.CukCuk.Materials\Misa.Cukcuk.Repositories\bin\Debug\net6.0\Misa.Cukcuk.Repositories.deps.json
+C:\Users\Acer\source\repos\Misa.CukCuk.Materials\Misa.Cukcuk.Repositories\bin\Debug\net6.0\Misa.Cukcuk.Repositories.dll
+C:\Users\Acer\source\repos\Misa.CukCuk.Materials\Misa.Cukcuk.Repositories\bin\Debug\net6.0\Misa.Cukcuk.Repositories.pdb
+C:\Users\Acer\source\repos\Misa.CukCuk.Materials\Misa.Cukcuk.Repositories\bin\Debug\net6.0\Misa.CukCuk.Helpers.dll
+C:\Users\Acer\source\repos\Misa.CukCuk.Materials\Misa.Cukcuk.Repositories\bin\Debug\net6.0\Misa.CukCuk.Helpers.pdb
+C:\Users\Acer\source\repos\Misa.CukCuk.Materials\Misa.Cukcuk.Repositories\obj\Debug\net6.0\Misa.Cukcuk.Repositories.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\Misa.CukCuk.Materials\Misa.Cukcuk.Repositories\obj\Debug\net6.0\Misa.Cukcuk.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\Misa.CukCuk.Materials\Misa.Cukcuk.Repositories\obj\Debug\net6.0\Misa.Cukcuk.Repositories.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\Misa.CukCuk.Materials\Misa.Cukcuk.Repositories\obj\Debug\net6.0\Misa.Cukcuk.Repositories.AssemblyInfo.cs
+C:\Users\Acer\source\repos\Misa.CukCuk.Materials\Misa.Cukcuk.Repositories\obj\Debug\net6.0\Misa.Cukcuk.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Misa.CukCuk.Materials\Misa.Cukcuk.Repositories\obj\Debug\net6.0\Misa.Cukcuk.Repositories.csproj.CopyComplete
+C:\Users\Acer\source\repos\Misa.CukCuk.Materials\Misa.Cukcuk.Repositories\obj\Debug\net6.0\Misa.Cukcuk.Repositories.dll
+C:\Users\Acer\source\repos\Misa.CukCuk.Materials\Misa.Cukcuk.Repositories\obj\Debug\net6.0\refint\Misa.Cukcuk.Repositories.dll
+C:\Users\Acer\source\repos\Misa.CukCuk.Materials\Misa.Cukcuk.Repositories\obj\Debug\net6.0\Misa.Cukcuk.Repositories.pdb
+C:\Users\Acer\source\repos\Misa.CukCuk.Materials\Misa.Cukcuk.Repositories\obj\Debug\net6.0\ref\Misa.Cukcuk.Repositories.dll

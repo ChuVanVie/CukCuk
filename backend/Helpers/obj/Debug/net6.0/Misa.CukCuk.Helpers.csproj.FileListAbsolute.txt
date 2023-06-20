@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\Misa.CukCuk.Materials\Helpers\bin\Debug\net6.0\Misa.CukCuk.Helpers.deps.json
+C:\Users\Acer\source\repos\Misa.CukCuk.Materials\Helpers\bin\Debug\net6.0\Misa.CukCuk.Helpers.dll
+C:\Users\Acer\source\repos\Misa.CukCuk.Materials\Helpers\bin\Debug\net6.0\Misa.CukCuk.Helpers.pdb
+C:\Users\Acer\source\repos\Misa.CukCuk.Materials\Helpers\obj\Debug\net6.0\Misa.CukCuk.Helpers.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\Misa.CukCuk.Materials\Helpers\obj\Debug\net6.0\Misa.CukCuk.Helpers.Resources.resources
+C:\Users\Acer\source\repos\Misa.CukCuk.Materials\Helpers\obj\Debug\net6.0\Misa.CukCuk.Helpers.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\Misa.CukCuk.Materials\Helpers\obj\Debug\net6.0\Misa.CukCuk.Helpers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\Misa.CukCuk.Materials\Helpers\obj\Debug\net6.0\Misa.CukCuk.Helpers.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\Misa.CukCuk.Materials\Helpers\obj\Debug\net6.0\Misa.CukCuk.Helpers.AssemblyInfo.cs
+C:\Users\Acer\source\repos\Misa.CukCuk.Materials\Helpers\obj\Debug\net6.0\Misa.CukCuk.Helpers.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Misa.CukCuk.Materials\Helpers\obj\Debug\net6.0\Misa.CukCuk.Helpers.dll
+C:\Users\Acer\source\repos\Misa.CukCuk.Materials\Helpers\obj\Debug\net6.0\refint\Misa.CukCuk.Helpers.dll
+C:\Users\Acer\source\repos\Misa.CukCuk.Materials\Helpers\obj\Debug\net6.0\Misa.CukCuk.Helpers.pdb
+C:\Users\Acer\source\repos\Misa.CukCuk.Materials\Helpers\obj\Debug\net6.0\ref\Misa.CukCuk.Helpers.dll
