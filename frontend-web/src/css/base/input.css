@@ -1,0 +1,48 @@
+.m-input {
+    width: 100%;
+    height: 22px;
+    padding: 0 4px;
+    margin: 2px 2px 2px 0;
+    border: 1px solid #bbb;
+}
+
+.m-input:focus {
+    outline: unset;
+    border: 1px solid #0071c1 !important;
+}
+
+.select-input {
+    background-color: #fff;
+    border: 1px solid #bbb;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: relative;
+}
+
+.select-input:focus {
+    border: 1px solid #0071c1 !important;
+}
+
+.select-input input {
+    outline: unset;
+    padding: 0 4px;
+    background-color: #fff;
+    border: unset;
+    margin: 0;
+}
+
+.select-input input:focus {
+    border: unset;
+}
+
+input[type="number"] {
+    -webkit-appearance: textfield;
+    -moz-appearance: textfield;
+    appearance: textfield;
+}
+
+input[type=number]::-webkit-inner-spin-button,
+input[type=number]::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+}
